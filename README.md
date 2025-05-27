@@ -22,8 +22,8 @@ Este es un clon del clásico juego Pong desarrollado con Unity. El objetivo del 
 2. Selecciona **"Abrir"** y busca la carpeta del proyecto
 3. Ejecuta la escena principal (`MainScene.unity` o similar)
 
-
-Rene Cruz Montejo
+👥 Desarrolladores: 
+Rene Cruz Montejo 
 Hernandez Milian Alejandro
 
-
+![ezgif-684054e9442549](https://github.com/user-attachments/assets/a1161c95-b9d3-4782-9b5e-3fad154817e5)
